@@ -24,4 +24,4 @@ error: aborting due to previous error
 ```
 
 ## Fix :)
-Chill man , just change your datatype to a suitable type. Here is [**<-- Link -->**]([url](https://labviewwiki.org/wiki/Integer_data_type)) attached where you can find your suitable datatype.
+Chill man , just change your datatype to a suitable type. Here is [<-- Link -->]([url](https://labviewwiki.org/wiki/Integer_data_type)) attached where you can find your suitable datatype.
