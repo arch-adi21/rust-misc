@@ -1,5 +1,5 @@
 ## What is overflow error ?
-Overflow error refers to a situation were , you assign values to a variable higher than it can hold. For suppose there exists an 'i8' (signed integer) type integer where u can only store integers ranging from -128 to 127. If you assign a variavle with 'i8' type a value greater than 127 or smaller than -128 , it will throw an overflow error. 
+Overflow error refers to a situation were , you assign values to a variable higher than it can hold. For suppose there exists an _'i8' (signed integer)_ type integer where u can only store integers ranging from _-128 to 127_. If you assign a variavle with 'i8' type a value greater than 127 or smaller than -128 , it will throw an overflow error. 
 
 > Partical Example :
 ```
@@ -22,3 +22,6 @@ error: literal out of range for `i8`
 
 error: aborting due to previous error
 ```
+
+## Fix :)
+Chill man , just change your datatype to a suitable type. Here is [**<-- Link -->**]([url](https://labviewwiki.org/wiki/Integer_data_type)) attached where you can find your suitable datatype.
